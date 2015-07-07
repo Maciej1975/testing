@@ -1,2 +1,2 @@
 # testing
-# Es ist ein Repository für Testaufgabe.
+# Es ist ein Repository für die Testaufgabe.
